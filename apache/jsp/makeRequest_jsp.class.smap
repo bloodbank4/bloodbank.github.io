@@ -1,0 +1,15 @@
+SMAP
+makeRequest_jsp.java
+JSP
+*S JSP
+*F
++ 0 makeRequest.jsp
+makeRequest.jsp
++ 1 banner.html
+banner.html
+*L
+5:53
+10,7:54
+1#1,81:60
+16#0,91:141
+*E
